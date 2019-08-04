@@ -4,7 +4,7 @@
 
 　jupyter notebook上で実行を行った。
  
-![実行した様子](result1.gif) 
+![実行した様子](demo.gif) 
  
 # 環境
 Python: Python 3.7.3  
