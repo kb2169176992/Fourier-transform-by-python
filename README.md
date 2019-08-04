@@ -1,8 +1,8 @@
 # Fourier-transform-by-python
 # 説明
-　VideoCaputureクラスでカメラ画像を取得し、フレーム毎の輝度の平均値を計算し、matplotlibのFuncAnimationを用いて、動的にグラフにプロットする。 
-
-　jupyter notebook上で実行を行った。
+　VideoCaputureクラスでカメラ画像を取得し、フレーム毎の輝度の平均値を計算し、matplotlibのFuncAnimationを用いて、動的にグラフにプロットする。
+jupyter notebook上で実行を行った。
+次のgifは実際に実行した様子である。
  
 ![実行した様子](demo.gif) 
  
@@ -12,8 +12,10 @@ OpenCV: 4.1.0
 Anaconda: conda 4.6.10  
 
 # 参考
-https://weblabo.oscasierra.net/python/opencv-videocapture-camera.html
-　OpenCVによるカメラ画像の取得を参考にした。
+http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
 
-https://qiita.com/yubais/items/c95ba9ff1b23dd33fde2
-　FuncAnimationについての記述を参考にサンプルコードを一部流用した。
+http://whitecat-student.hatenablog.com/entry/2016/11/09/225631
+
+http://rasp.hateblo.jp/entry/2016/01/24/204539
+
+https://code-graffiti.com/opencv-direct-drawing-with-a-mouse-in-python/
