@@ -3,7 +3,7 @@
 　VideoCaputureクラスでカメラ画像を取得し、フレーム毎の輝度の平均値を計算し、matplotlibのFuncAnimationを用いて、動的にグラフにプロットする。
 jupyter notebook上で実行を行った。
 次のgifは実際に実行した様子である。
- 
+
 ![実行した様子](demo.gif) 
  
 # 環境
