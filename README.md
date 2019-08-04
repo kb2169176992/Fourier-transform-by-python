@@ -9,7 +9,7 @@
 # 環境
 Python: Python 3.7.3  
 OpenCV: 4.1.0  
-Anaconda: conda 4.6.11  
+Anaconda: conda 4.6.10  
 
 # 参考
 https://weblabo.oscasierra.net/python/opencv-videocapture-camera.html
