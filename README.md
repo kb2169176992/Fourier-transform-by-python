@@ -1,5 +1,8 @@
 # Fourier-transform-by-python
 # 説明
+
+
+
 　VideoCaputureクラスでカメラ画像を取得し、フレーム毎の輝度の平均値を計算し、matplotlibのFuncAnimationを用いて、動的にグラフにプロットする。
 jupyter notebook上で実行を行った。
 次のgifは実際に実行した様子である。
@@ -19,3 +22,5 @@ http://whitecat-student.hatenablog.com/entry/2016/11/09/225631
 http://rasp.hateblo.jp/entry/2016/01/24/204539
 
 https://code-graffiti.com/opencv-direct-drawing-with-a-mouse-in-python/
+
+https://www.hello-python.com/2018/02/16/numpyとopencvを使った画像のフーリエ変換と逆変換/
